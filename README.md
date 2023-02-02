@@ -3,9 +3,9 @@
 ### An analysis of HDB resale price from year 2017 onwards
 --------------------------------------------------------------------------
 
-[![Dashboard-screenshot.jpg](https://i.postimg.cc/6qSwvB7x/Dashboard-screenshot.jpg)](https://postimg.cc/V0j3yQBK)
+[![Dashboard.jpg](https://i.postimg.cc/1zWJZf6r/Dashboard.jpg)](https://postimg.cc/DWXqrfxS)
 
-============================================================================
+===========================================================================================
 [Link to dataset](https://data.gov.sg/dataset/resale-flat-prices)
 
 An analysis of the Singapore public housing, Housing Development Board (HDB) resale prices from the year 2017 onwards.
