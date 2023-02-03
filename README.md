@@ -21,22 +21,34 @@ The charts demonstrate the patterns of the sales exercise of HDB resales from th
 __________________________________________________________________________
 
 •	The analysis shows the uptrend price and demand in the HDB resale market.
+
 •	The 4 room units were favourable as compared to smaller or larger units.
+
 •	Most of the HDB resale transactions was done in Q3.
-•	More sales in year 2018
+
+•	More sales in year 2018.
+
 •	High transaction trends are mostly from matured estates with improved, maisonettes, or premium loft apartment type of flat model.
+
 •	Lower level units were the most transaction because of the majority resale units are older flats and it does not have high storey range comparing to newly MOP-ed BTO units.
+
 •	Most of the HDB resale transaction was made in the central region of Singapore. There are many reasons for this pattern. Located proximity to central region, easy access to CBD and nearby prestigious schools to name a few.
 
 ## Changes made from original data.
 ----------------------------------------------------------------------------
 
 •	Data cleaning – added year, region, and zone into the data.
+
 •	Merged the list of storeys range from 18 list to 9 list.
+
 •	Used index-match formula for region and zone to match the town in data cleaning sheet. 
+
 •	Proper function to correct the header.
+
 •	Created pivotable and charts.
+
 •	Added slicer and timeline.
+
 •	Created interactive dashboard.
 
 ## Reflections
