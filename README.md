@@ -37,7 +37,7 @@ __________________________________________________________________________
 ## Changes made from original data.
 ----------------------------------------------------------------------------
 
-•	Data cleaning – added year, region, and zone into the data.
+•	Data cleaning – added year, region, and zone into the data, corrected the error with #NA regions to the relevant region.
 
 •	Merged the list of storeys range from 18 list to 9 list.
 
