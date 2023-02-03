@@ -3,7 +3,7 @@
 ### An analysis of HDB resale price from year 2017 onwards
 --------------------------------------------------------------------------
 
-[![Dashboard.jpg](https://i.postimg.cc/1zWJZf6r/Dashboard.jpg)](https://postimg.cc/DWXqrfxS)
+[![Dashboard.jpg](https://i.postimg.cc/h4CZbWmz/Dashboard.jpg)](https://postimg.cc/fk9vDPBD)
 
 ===========================================================================================
 [Link to dataset](https://data.gov.sg/dataset/resale-flat-prices)
